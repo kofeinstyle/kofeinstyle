@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Max, and I'm a long-time, huge Laravel enthusiast!
+
 <!--
 **kofeinstyle/kofeinstyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
